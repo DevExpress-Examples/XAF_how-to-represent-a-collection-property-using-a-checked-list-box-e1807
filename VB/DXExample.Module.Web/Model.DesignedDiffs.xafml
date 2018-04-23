@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application>
+	<BOModel>
+		<Class Name="DXExample.Module.Master">
+			<Member Name="Details" PropertyEditorType="DXExample.Module.Web.WebCheckedListBoxPropertyEditor" />
+		</Class>
+	</BOModel>
+</Application>

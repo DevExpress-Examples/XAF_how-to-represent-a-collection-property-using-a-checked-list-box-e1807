@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Application Title="DXExample" Logo="ExpressAppLogo">
+  <Views>
+    <DetailView ID="Master_DetailView">
+      <Layout Width="461" Height="404">
+        <LayoutGroup ID="Main" CaptionLocation="Default" RelativeSize="100">
+          <LayoutGroup ID="Details_Group" Removed="True" />
+          <LayoutGroup ID="SimpleEditors" CaptionLocation="Default" RelativeSize="100">
+            <LayoutGroup ID="Master" CaptionLocation="Default" RelativeSize="100">
+              <LayoutItem ID="Details" ShowCaption="True" CaptionLocation="Default" Index="1" RelativeSize="92" SizeConstraintsType="Custom" IsNewNode="True" />
+              <LayoutItem ID="MasterName" RelativeSize="7" SizeConstraintsType="Default" />
+            </LayoutGroup>
+          </LayoutGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+  </Views>
+</Application>
+
