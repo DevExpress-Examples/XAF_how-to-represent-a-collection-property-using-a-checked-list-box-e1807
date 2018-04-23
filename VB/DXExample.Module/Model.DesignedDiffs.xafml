@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="DXExample" Logo="ExpressAppLogo">
+  <NavigationItems StartupNavigationItem="Master_ListView" />
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="12.2.7.0" IsNewNode="True" />
+  </SchemaModules>
+  <Views>
+    <DetailView Id="Master_DetailView">
+      <Layout Width="461" Height="404">
+        <LayoutGroup Id="Main" CaptionLocation="Default" RelativeSize="100">
+          <LayoutGroup Id="SimpleEditors" CaptionLocation="Default" RelativeSize="100">
+            <LayoutGroup Id="Master" CaptionLocation="Default" RelativeSize="100">
+              <LayoutItem Id="MasterName" RelativeSize="7" SizeConstraintsType="Default" ViewItem="MasterName" />
+              <LayoutItem Id="Details" CaptionLocation="Default" Index="1" RelativeSize="92" SizeConstraintsType="Custom" ViewItem="Details" IsNewNode="True" />
+            </LayoutGroup>
+          </LayoutGroup>
+          <LayoutGroup Id="Details_Group" Removed="True" />
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+  </Views>
+</Application>
