@@ -1,0 +1,148 @@
+/* Common */
+body {
+    background-color: #BFDBFF;
+    color: #1641A0;
+
+    background-image: url('BackgroundRepeat.gif'); 
+    background-position: top; 
+    background-repeat: repeat-x;
+
+    font-size: 9pt;
+	padding: 0px; 
+	margin: 0px;
+}
+a {
+    color: #5689C5; 
+    text-decoration: underline;   
+}
+a:visited {
+    color: #A1A1A1;
+    text-decoration: underline;   
+}
+div.PageContent {
+    background-image: url('Background.jpg'); 
+    background-position: top right; 
+    background-repeat: no-repeat;
+    
+    padding: 0px 0px 0px 0px;
+}
+/* Action Container Panel */
+.ACPanel 
+{
+	background: url('opacity50.png') repeat;
+	
+	padding: 2px 5px 2px 20px;
+	height: 25px;
+}	
+/* Main table */
+.Main {
+	background: white;
+}
+h1 {
+	color: Black;
+	
+	font-size: 200%;
+	font-family: Tahoma;
+	font-weight: normal;
+	margin: 0px 0px 0px 0px;
+	padding: 0px;
+}
+/* Footer */
+.FooterCopyright {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	text-align: right;
+	
+	color: #788CA5;
+}
+/* Dialog */
+body.Dialog {
+	background-color: White !important;
+}
+div.DialogPageContent {
+	margin: 0px;
+}
+div.Header {
+	width: 100%;
+	height: 80px;
+	margin: 0px;
+}
+.DialogContent {
+	background-color: White;
+	
+	height: 300px;
+}
+/* Error */
+.Error {
+	color: Black;
+}
+/* Links on dark background */
+.Footer .menuLinks_Aqua a,
+.Security .menuLinks_Aqua a,
+.TabsContainer .menuLinks_Aqua a,
+.Footer .menuLinks_Aqua a:visited,
+.Security .menuLinks_Aqua a:visited,
+.TabsContainer .menuLinks_Aqua a:visited
+{
+}
+/* Controls customization */
+.dxnbControl_Aqua {
+	width: 100%;
+}
+.dxgvControl_Aqua {
+	width: 100%;
+}
+.dxgvHeader_Aqua td {
+    white-space:normal;
+}
+.dxtcControl_Aqua {
+    width: 100% !important;
+}
+.NavigationTabsActionContainer .dxtcControl_Aqua {
+background-image: url('opacity50.png'); 
+background-repeat: repeat-x;
+}
+.NavigationTabsActionContainer .dxtcPageContent_Aqua {
+	padding-left: 28px;
+    border: none !important;
+}
+.NavigationTabsActionContainer .dxtcTab_Aqua 
+{
+	padding-bottom: 3px;
+}
+.NavigationTabsActionContainer .dxtcActiveTab_Aqua 
+{
+	padding-bottom: 3px;
+	padding-top: 1px;
+}
+.NavigationTabsActionContainer .dxtcLeftIndentCell_Aqua div {
+	width: 25px !important;
+}
+.ToolsActionContainerPanel .dxmVerticalMenuItemWithImage_Aqua
+{
+    padding-top: 4px !important;
+    padding-bottom: 4px !important;
+}
+/* NavigationHistory (NavigationHistoryActionContainer) */
+.NavigationHistoryLinks {
+	color: #86888D;
+	padding: 0px 0px 0px 2px;
+}
+.NavigationHistoryLinks a:hover {
+	text-decoration: underline;
+    color: #F39128;
+}
+.NavigationHistoryLinks a, .NavigationHistoryLinks a:visited {
+	text-decoration: underline;
+    color: #5689C5;
+}
+.NavigationHistoryLinks a.Current, .NavigationHistoryLinks a.Current:hover, .NavigationHistoryLinks a.Current:visited {
+	text-decoration: none;
+	color: #86888D;
+}
+.Security .dxmMenuSeparator_Aqua {
+	padding: 0px 4px 0px 11px;
+}
+.TabsContainer .dxmMenuSeparator_Aqua {
+	padding: 0px 10px 0px 16px;
+}
