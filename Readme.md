@@ -1,3 +1,14 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Model.DesignedDiffs.xafml](./CS/DXExample.Module.Web/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/DXExample.Module.Web/Model.DesignedDiffs.xafml))
+* [WebCheckedListBoxPropertyEditor.cs](./CS/DXExample.Module.Web/WebCheckedListBoxPropertyEditor.cs) (VB: [WebCheckedListBoxPropertyEditor.vb](./VB/DXExample.Module.Web/WebCheckedListBoxPropertyEditor.vb))
+* [Model.DesignedDiffs.xafml](./CS/DXExample.Module.Win/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/DXExample.Module.Win/Model.DesignedDiffs.xafml))
+* **[WinCheckedListBoxPropertyEditor.cs](./CS/DXExample.Module.Win/WinCheckedListBoxPropertyEditor.cs) (VB: [WinCheckedListBoxPropertyEditor.vb](./VB/DXExample.Module.Win/WinCheckedListBoxPropertyEditor.vb))**
+* [Detail.cs](./CS/DXExample.Module/Detail.cs) (VB: [Detail.vb](./VB/DXExample.Module/Detail.vb))
+* [Master.cs](./CS/DXExample.Module/Master.cs) (VB: [Master.vb](./VB/DXExample.Module/Master.vb))
+* [Model.DesignedDiffs.xafml](./CS/DXExample.Module/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/DXExample.Module/Model.DesignedDiffs.xafml))
+<!-- default file list end -->
 # How to represent a collection property using a checked list box
 
 
