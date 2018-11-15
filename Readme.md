@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [WebCheckedListBoxPropertyEditor.cs](./CS/DXExample.Module.Web/WebCheckedListBoxPropertyEditor.cs) (VB: [WebCheckedListBoxPropertyEditor.vb](./VB/DXExample.Module.Web/WebCheckedListBoxPropertyEditor.vb))
+* **[WinCheckedListBoxPropertyEditor.cs](./CS/DXExample.Module.Win/WinCheckedListBoxPropertyEditor.cs) (VB: [WinCheckedListBoxPropertyEditor.vb](./VB/DXExample.Module.Win/WinCheckedListBoxPropertyEditor.vb))**
+<!-- default file list end -->
 # How to represent a collection property using a checked list box
 
 
